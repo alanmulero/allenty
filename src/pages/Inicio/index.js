@@ -1,9 +1,10 @@
+import Navbar from "components/Navbar";
 
 function Inicio(){
     return (
         <>
         
-        <h1>Nova pagina inicial</h1>
+        <Navbar />
         
         
         </>
